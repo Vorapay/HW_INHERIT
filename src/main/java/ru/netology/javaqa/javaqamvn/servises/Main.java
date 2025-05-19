@@ -1,4 +1,4 @@
-package org.example;
+package ru.netology.javaqa.javaqamvn.servises;
 
 public class Main {
     public static void main(String[] args) {
